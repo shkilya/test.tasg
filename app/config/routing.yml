@@ -1,3 +1,6 @@
+book:
+    type:     rest
+    resource: AppBundle\Controller\BookController
 app:
     resource: '@AppBundle/Controller/'
     type: annotation
